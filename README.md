@@ -1,13 +1,14 @@
-'''
-   ███████╗ ██████╗  ██████╗
-   ██╔════╝██╔═══██╗██╔════╝
-   ███████╗██║   ██║██║     
-   ╚════██║██║   ██║██║     
-   ███████║╚██████╔╝╚██████╗
-   ╚══════╝ ╚═════╝  ╚═════╝
+<pre align="center">
+ ███████╗ ██████╗  ██████╗ 
+ ██╔════╝██╔═══██╗██╔════╝ 
+ ███████╗██║   ██║██║      
+ ╚════██║██║   ██║██║      
+ ███████║╚██████╔╝╚██████╗ 
+ ╚══════╝ ╚═════╝  ╚═════╝ 
 
-    C Y B E R S E C U R I T Y
-    ─────────────────────────
-    SOC • BLUE TEAM • LABS    ```
+       SOC & CYBERSECURITY LABS
+       =========================
+       DETECT • INVESTIGATE • DEFEND
+</pre>
                                   
 Collection of my SOC projects and home lab writeups focused on practical security monitoring, detection, incident investigation, and defensive security.
