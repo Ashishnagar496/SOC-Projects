@@ -1,2 +1,2 @@
 # SOC-Projects
-This repository has writeups for my soc projects and home labs 
+A collection of my SOC projects, cybersecurity experiments, and home labs focused on practical security monitoring, detection, incident investigation, and defensive security.
